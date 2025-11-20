@@ -496,10 +496,10 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 
 ## 📧 Contacto
 
-**Autor**: Tu Nombre  
-**Email**: tu.email@ejemplo.com  
-**LinkedIn**: [tu-perfil](https://linkedin.com/in/tu-perfil)  
-**GitHub**: [@tu-usuario](https://github.com/tu-usuario)
+**Autor**: Alexander David Velasquez Malo  
+**Email**: velasquezad@uninorte.edu.co 
+**LinkedIn**: [alexanderdvelasquezm](www.linkedin.com/in/alexanderdvelasquezm)  
+**GitHub**: [@alexanderdvm ](https://github.com/alexanderdvm )
 
 ---
 
